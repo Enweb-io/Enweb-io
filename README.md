@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Web projects
 - 📫 How to reach me ... mistudyroom@gmail.com
 - 😄 Pronouns: web
-- ⚡ Fun fact: I am s best student
+- ⚡ Fun fact: I am a best student
 
 
 Enweb-io/Enweb-io is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
